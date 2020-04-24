@@ -16,6 +16,7 @@ Notes I make while doing stuff.
    :caption: Contents:
 
    java.rst
+   python.rst
    archive.rst
 
 
