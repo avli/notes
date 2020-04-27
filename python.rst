@@ -18,15 +18,14 @@ Dummy Threads
 
 .. currentmodule:: threading
 
-Dummy threads, which are instances of the :class:`_DummyThread`
-class, are used for representing threads not created by the
+Dummy threads, which are instances of the :class:`threading._DummyThread`
+class, are used for representing threads not created by the means of the
 :mod:`threading` module.
 
-If you call the :func:`~current_thread` in such thread it will
+If you call the :func:`~current_thread` in such thread, it will
 return a dummy thread object. After the call, the thread will be added to the
 internal dictionary of active threads and functions such as
-:func:`~threading.enumerate` and :func:`~active_count` will
-also become aware of it.
+:func:`~threading.enumerate` and :func:`~active_count` will become aware of it.
 
 A short example to illustrate said above:
 
