@@ -11,6 +11,8 @@ Notes I make while doing stuff.
 .. image::
    pano.png
 
+.. note:: Opinions are my own.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
