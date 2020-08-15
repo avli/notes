@@ -4,13 +4,10 @@
 Artificial Intelligence
 +++++++++++++++++++++++
 
-Artificial General Intelligence
-===============================
-
 .. _agi-scepsis:
 
 AGI scepticism
---------------
+==============
 
 - `Hubert Dreyfus views on artificial intelligence <https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence>`_
 - `Why general artificial intelligence will not be realized <https://www.nature.com/articles/s41599-020-0494-4>`_
