@@ -17,3 +17,4 @@ AGI scepticism
 - `Is AlphaGo Really Such a Big Deal? <https://www.quantamagazine.org/is-alphago-really-such-a-big-deal-20160329/>`_
 - `The implausibility of intelligence explosion <https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec>`_
 - `Nassim Taleb: "In Artificial intelligence there is nothing essentially new" <https://hightech.plus/2019/09/07/nassim-taleb-v-iskusstvennom-intellekte-net-nichego-principialno-novogo>`_
+- `AI problems <https://yosefk.com/blog/ai-problems.html>`_
