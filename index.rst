@@ -19,6 +19,7 @@ Notes I make while doing stuff.
 
    java.rst
    python.rst
+   perl.rst
    ai.rst
    archive.rst
 
