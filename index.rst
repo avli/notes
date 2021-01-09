@@ -20,6 +20,7 @@ Notes I make while doing stuff.
    java.rst
    python.rst
    perl.rst
+   regexes.rst
    ai.rst
    archive.rst
 
