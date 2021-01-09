@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'avli\'s notes'
-copyright = '2020, Andrey Lisin'
+copyright = '2021, Andrey Lisin'
 author = 'Andrey Lisin'
 
 # The short X.Y version
