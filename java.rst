@@ -79,7 +79,7 @@ erasure. For example
 
 been compiled with the command:
 
-.. code-block:: console
+.. code-block:: text
 
    $ javac -XD-printflat -d output_dir Box.java
 
